@@ -3023,6 +3023,7 @@ input:checked + .toggleSwitchSlider:before {
     text-align: right;
     -webkit-user-select: initial;
     border: #fff 2px solid;
+    border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
