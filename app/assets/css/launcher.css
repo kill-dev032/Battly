@@ -3022,7 +3022,7 @@ input:checked + .toggleSwitchSlider:before {
     right: 95px;
     text-align: right;
     -webkit-user-select: initial;
-    border: linear-gradient(#FFFFFF, #FF0000) 2px solid;
+    border: white 2px solid;
     border-radius: 10px;
     display: flex;
     align-items: center;
